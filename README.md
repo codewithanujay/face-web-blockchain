@@ -2,6 +2,7 @@
 
 An end-to-end Python pipeline that:
 
+
 1. Detects and encodes a face from an input image.
 2. Performs a **real reverse-image search** using Google Lens through Playwright.
 3. Collects genuine web results (which may include social-media/public-post URLs).
